@@ -11,7 +11,7 @@ An Simple Bot To Learn :
      <img height="30px" src="https://telegra.ph/file/4a642e823b5250c99da91.jpg">
   </a>
 
-`Fork [This Repo](https://github.com/VIVEK-TP/TG-BOT) And Change The Repo To Any Bots
+`Fork` [This Repo](https://github.com/VIVEK-TP/TG-BOT) `And Change The Repo To Any Bots
 eg : Renamer Bot , YouTube Downloader Bot etc...`
 
 ### Adding Commands
