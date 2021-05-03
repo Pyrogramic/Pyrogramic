@@ -69,9 +69,9 @@ Change Python Version In `runtime.txt`.Python Updates -> [Here](https://github.c
 ---
 name: Contributers
 about: Who Contributed With This Repo
-title: 'bot''coding'
-labels: '[vivek](https://github.com/Vivek_Kerala)''[Fayas](https://github.com/FayasNoushad)
-assignees: ''
+title: 'bot , coding'
+labels: '[vivek](https://github.com/Vivek_Kerala) , [Fayas](https://github.com/FayasNoushad)
+assignees: '📣'
 
 ---
 
