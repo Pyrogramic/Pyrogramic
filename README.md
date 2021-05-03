@@ -66,18 +66,12 @@ Change Python Version In `runtime.txt`.Python Updates -> [Here](https://github.c
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 
----
-name: Contributers
-about: Who Contributed With This Repo
-title: 'bot , coding'
-labels: '[vivek](https://github.com/Vivek_Kerala) , [Fayas](https://github.com/FayasNoushad)
-assignees: '📣'
-
----
-
 ### Credits
+---
 
 <p align="left">
   <a href="https://docs.pyrogram.org/">
      <img height="30px" src="https://telegra.ph/file/4a642e823b5250c99da91.jpg">
   </a>
+
+---
